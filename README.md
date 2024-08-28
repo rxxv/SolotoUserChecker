@@ -22,7 +22,7 @@ A Python script to check the availability of usernames on Solo.to.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rxxv/SolotoUserChecked.git
+   git clone https://github.com/rxxv/SolotoUserChecker.git
    ```
 
 2. Navigate to the project directory:
