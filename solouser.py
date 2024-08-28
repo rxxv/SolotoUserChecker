@@ -1,4 +1,4 @@
-# code by @ryuna
+# code by @rxxv
 import requests
 import random
 import string
@@ -54,7 +54,7 @@ def check_username_availability(usernames):
                 print(f"Unexpected response for username {username}: {response_json}")
 
 def main():
-    print_rainbow("Solo.to Username Checker by @Ryuna")
+    print_rainbow("Solo.to Username Checker by @rxxv")
     print("Select an option:")
     print("1 - Generate random usernames")
     print("2 - Read usernames from a file")
